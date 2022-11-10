@@ -1,0 +1,23 @@
+{
+  "name": "solana",
+  "version": "1.0.0",
+  "description": "solana blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshumanpatil/solana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshumanpatil/solana/issues"
+  },
+  "homepage": "https://github.com/anshumanpatil/solana#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2"
+  }
+}
